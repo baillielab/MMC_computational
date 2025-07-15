@@ -6,7 +6,7 @@ For an overview of what we could do with the very exciting single-cell data, see
 
 ## eQTL mapping  
   
-For an quick overview of the proposed analysis, please see [eQTL_onepager.md](eQTL_onepager.md). This document includes the **project goal/overview**, **functional and design specifications** of the analysis pipeline and the **analysis plan and timeline**.   
+Please see the [single-cell eQTL mapping strategy](sc_eQTL_strategydoc.md) on proposed options for single-cell eQTL mapping. 
 
 ## Cell type analysis
 
