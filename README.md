@@ -15,6 +15,10 @@ Our aims are as follows (taken from the [FGI website](https://www.ukfunctionalge
 
 For an overview of the whole process, please see the [MMC powerpoint](https://uoe-my.sharepoint.com/:p:/r/personal/kcampb2_ed_ac_uk/Documents/MMC_PPA_notes.pptx?d=w3afaa31d5ccd4efea7dff2bf2b120465&csf=1&web=1&e=jjdB1P). For an overview of what we could do with the very exciting single-cell data, see figure below (the projects I am currently working on are highlighted in red).   
 
+**Key resources**  
+
+`<link to key resources that we can share>`
+
 ## eQTL mapping  
   
 Please see the [single-cell eQTL mapping strategy](specification_docs/sc_eQTL_strategydoc.md) on proposed options for single-cell eQTL mapping. 
