@@ -6,7 +6,7 @@
 
 ## eQTL mapping  
   
-Please see the [single-cell eQTL mapping strategy](sc_eQTL_strategydoc.md) on proposed options for single-cell eQTL mapping. 
+Please see the [single-cell eQTL mapping strategy](specification_docs/sc_eQTL_strategydoc.md) on proposed options for single-cell eQTL mapping. 
 
 ## Cell type analysis
 
@@ -20,9 +20,9 @@ Please feel free to add any and all ideas you would like to implement (or see im
   
 - Variance QTL mapping  
 - Dynamic cell state/continuous cell state or phenotype mapping (perhaps go straight into this?)  
-- Allelic imbalance analysis (see [reading list](reading_list.md))  
+- Allelic imbalance analysis (see [key literature](specification_docs/key_literature.md))  
 - Something with reads or tails of reads?   
 - Producing a sc-eQTL atlas (similar to cattle gtex)  
 - Which genes have the most variation across a single cell type? (and which SNPs/regions is this associated with) --> varQTLs
   
-![Image](potential_research_avenues.png)
+![Image](specification_docs/potential_research_avenues.png)
