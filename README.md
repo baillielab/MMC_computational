@@ -1,7 +1,8 @@
 # Single-cell molecular QTL mapping
   
 Following data QC and preparation, we conduct single-cell molecular QTL mapping. For now, this is focused on eQTL mapping.  
-For an overview of the whole process, please see the [MMC powerpoint](https://uoe-my.sharepoint.com/:p:/r/personal/kcampb2_ed_ac_uk/Documents/MMC_PPA_notes.pptx?d=w3afaa31d5ccd4efea7dff2bf2b120465&csf=1&web=1&e=jjdB1P)
+For an overview of the whole process, please see the [MMC powerpoint](https://uoe-my.sharepoint.com/:p:/r/personal/kcampb2_ed_ac_uk/Documents/MMC_PPA_notes.pptx?d=w3afaa31d5ccd4efea7dff2bf2b120465&csf=1&web=1&e=jjdB1P)  
+For an overview of what we could do with the very exciting single-cell data, see figure below. The projects I am currently working on are highlighted in red.   
 
 ## eQTL mapping  
   
@@ -23,3 +24,5 @@ Please feel free to add any and all ideas you would like to implement (or see im
 - Something with reads or tails of reads?   
 - Producing a sc-eQTL atlas (similar to cattle gtex)  
 - Which genes have the most variation across a single cell type? (and which SNPs/regions is this associated with) --> varQTLs
+  
+![Image](potential_research_avenues.png)
