@@ -17,6 +17,7 @@ For an overview of the whole process, please see the [MMC powerpoint](https://uo
 
 **Key resources**  
 
+- To see how key analysis decisions were made, please refer to the [specification documents](specification_docs).  
 `<link to key resources that we can share>`
 
 ## eQTL mapping  
