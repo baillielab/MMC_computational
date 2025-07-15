@@ -1,8 +1,8 @@
 # Single-cell eQTL mapping - project specification
 
-**Author(s):** Silvia
-**Last updated:** 14-07-2025
-**Other contributors:**
+**Author(s):** Silvia  
+**Last updated:** 14-07-2025  
+**Other contributors:**  
 
 ## 1. Project overview
 

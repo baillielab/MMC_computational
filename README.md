@@ -1,7 +1,7 @@
 # Single-cell molecular QTL mapping
   
 Following data QC and preparation, we conduct single-cell molecular QTL mapping. For now, this is focused on eQTL mapping.  
-For an overview of the whole process, please see the (MMC powerpoint)[https://uoe-my.sharepoint.com/:p:/r/personal/kcampb2_ed_ac_uk/Documents/MMC_PPA_notes.pptx?d=w3afaa31d5ccd4efea7dff2bf2b120465&csf=1&web=1&e=jjdB1P]
+For an overview of the whole process, please see the [MMC powerpoint](https://uoe-my.sharepoint.com/:p:/r/personal/kcampb2_ed_ac_uk/Documents/MMC_PPA_notes.pptx?d=w3afaa31d5ccd4efea7dff2bf2b120465&csf=1&web=1&e=jjdB1P)
   
 ## eQTL mapping  
   
