@@ -5,7 +5,7 @@ For an overview of the whole process, please see the [MMC powerpoint](https://uo
   
 ## eQTL mapping  
   
-For an easy overview of the proposed analysis, please see [eQTL_onepager.md](eQTL_onepager.md). This document includes the **project goal/overview**, **functional and design specifications** of the analysis pipeline and the **analysis plan and timeline**.   
+For an quick overview of the proposed analysis, please see [eQTL_onepager.md](eQTL_onepager.md). This document includes the **project goal/overview**, **functional and design specifications** of the analysis pipeline and the **analysis plan and timeline**.   
   
 ## Future analysis ideas  
   
