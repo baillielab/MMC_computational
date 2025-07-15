@@ -2,11 +2,28 @@
 
 ## Project aim & context
 
+The scientific aim of this project is to identify naturally occuring genetic variation in the population that is associated with changes in gene expression in a cell-type or cell-state specific context. Studies have shown `<what have studies shown>`. More specifically, we want to maximize power for detection in this relatively small dataset - we want to identify as many true signals of association as possible.  
+
 ## Key decision points
 
-## Option 1: discrete cell states
+Please see the table below for key decision to be made. 
 
-## Option 2: continuous cell states
+|Decision number|| Key decision point | Reason this is critical |
+|---|---|---|---|
+|1||Discrete or continuous cell types | Could greatly change our power of detection? Could also change what we detect? @@@ Need to look into this more|
+|2|Discrete|How to annotate cell types | Some methods are better than others? @@@ Need to research more |
+|3|Discrete|How to produce pseudo-bulk measure| some methods are better than others? @@@Need to research more|
+|4|Continuous|How do we model the continuous cell state | @@@ Need to research more|
+
+## Decision point options
+
+### Decision 1: Discrete or continuous cell type models
+
+#### Option 1: Discrete cell types
+
+#### Option 2: Continuous cell states
+
+
 
 ## Option comparison
 
