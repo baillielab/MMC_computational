@@ -2,10 +2,16 @@
   
 Following data QC and preparation, we conduct single-cell molecular QTL mapping. For now, this is focused on eQTL mapping.  
 For an overview of the whole process, please see the [MMC powerpoint](https://uoe-my.sharepoint.com/:p:/r/personal/kcampb2_ed_ac_uk/Documents/MMC_PPA_notes.pptx?d=w3afaa31d5ccd4efea7dff2bf2b120465&csf=1&web=1&e=jjdB1P)
-  
+
 ## eQTL mapping  
   
 For an quick overview of the proposed analysis, please see [eQTL_onepager.md](eQTL_onepager.md). This document includes the **project goal/overview**, **functional and design specifications** of the analysis pipeline and the **analysis plan and timeline**.   
+
+## Cell type analysis
+
+- What known cell types are there in our samples?
+- What cells are communicating with each other? (receptor-ligand pairs)
+- How does the abundance of cell-types change?
   
 ## Future analysis ideas  
   
