@@ -2,6 +2,8 @@
 
 Welcome to the downstream analysis arm of the molecular mechanisms cluster at the University of Edinburgh. If you have any questions, ideas or would like to collaborate, please reach out to silvia.shen[at]ed.ac.uk.  
 
+**Aims**
+
 Our aims are as follows (taken from the [FGI website](https://www.ukfunctionalgenomics.com/research/molecular-mechanisms-cluster/)). 
 
 "This research cluster will tackle the “missing link” between the genome and disease. Our aim is to identify molecules in our bodies that cause disease by looking at how tiny variations in the genome change these molecules in single cells. We will create a unique dataset by reading molecular signals in human cells donated by hundreds of patients, potentially leading to ideas for new, effective drugs. ... In the Molecular Mechanisms Cluster we hold ourselves to a simple measure of success: the number of disease genes explained (number of disease-associated common genetic variants significantly colocalising with molecular quantitative trait loci)."
