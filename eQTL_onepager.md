@@ -6,7 +6,10 @@
 
 ## 1. Project overview
 
-**Aims/hypotheses**
+### **Aims**
+- A pipeline that can extract the maximum amount of data from what we have. 
+
+### **Hypotheses**
 
 Aim 1: Which genetic variants are associated with differences in gene expression levels in the population?  
 Hypothesis tested: SNP *x* is statistically associated with expression of gene *Y*.
@@ -23,7 +26,7 @@ Hypothesis tested: SNP *x* is statistically associated with expression of gene *
     - Model cell states dynamically
     - Mixed-model association 
 
-**Key outputs**
+### **Key outputs**
 
 A list of association summary statistics for each gene, eg:
 
