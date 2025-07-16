@@ -42,5 +42,6 @@ Please feel free to add any and all ideas you would like to implement (or see im
 - Something with reads or tails of reads?   
 - Producing a sc-eQTL atlas (similar to cattle gtex)  
 - Which genes have the most variation across a single cell type? (and which SNPs/regions is this associated with) --> varQTLs
+- Single-cell integration with polygenic risk scores? [Paper](https://www.nature.com/articles/s41588-022-01167-z)
   
 ![Image](specification_docs/potential_research_avenues.png)
