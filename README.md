@@ -20,16 +20,18 @@ For an overview of the whole process, please see the [MMC powerpoint](https://uo
 - To see how key analysis decisions were made, please refer to the [specification documents](specification_docs).  
 `<link to key resources that we can share>`
 
-## eQTL mapping  
-  
-Please see the [single-cell eQTL mapping strategy](specification_docs/sc_eQTL_strategydoc.md) on proposed options for single-cell eQTL mapping. 
-
 ## Cell type analysis
+
+Please see the [cell-type analysis plan](specification_docs/cell_type_plan.md) for what we plan to do. 
 
 - What known cell types are there in our samples?
 - What cells are communicating with each other? (receptor-ligand pairs)
 - How does the abundance of cell-types change?
+
+## eQTL mapping  
   
+Please see the [single-cell eQTL mapping strategy](specification_docs/sc_eQTL_strategydoc.md) on proposed options for single-cell eQTL mapping. 
+
 ## Future analysis ideas  
   
 Please feel free to add any and all ideas you would like to implement (or see implemented by the team/me)!  
