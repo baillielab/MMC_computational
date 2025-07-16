@@ -26,7 +26,7 @@ Please see the [cell-type analysis plan](specification_docs/cell_type_plan.md) f
 
 - What known cell types are there in our samples?
 - What cells are communicating with each other? (receptor-ligand pairs)
-- How does the abundance of cell-types change?
+- How does the abundance of cell-types change with environmental perturbations?
 
 ## eQTL mapping  
   
