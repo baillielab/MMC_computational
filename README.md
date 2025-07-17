@@ -30,7 +30,8 @@ Please see the [cell-type analysis plan](specification_docs/cell_type_plan.md) f
 
 ## eQTL mapping  
   
-Please see the [single-cell eQTL mapping strategy](specification_docs/sc_eQTL_strategydoc.md) on proposed options for single-cell eQTL mapping. 
+Please see the [single-cell eQTL mapping strategy](specification_docs/sceQTL_plan.md) on proposed options for single-cell eQTL mapping.  
+For pipeline design, please see the [pipeline specification doc](pipeline_specification.md).  
 
 ## Future analysis ideas  
   
@@ -56,3 +57,4 @@ Please feel free to add any and all ideas you would like to implement (or see im
 - Cuomo's [review paper: Single-cell genomics meets human genetics](https://www.nature.com/articles/s41576-023-00599-5). Great initial overview of main methods and challenges.
 - Maria's [review paper: The Power of Single-Cell RNA Sequencing in eQTL Discovery](https://www.mdpi.com/2073-4425/13/3/502). Great starting point, v high level. 
 - Zhang and Zhao's [review paper: eQTL studies: from bulk tissues to single cells](https://www.sciencedirect.com/science/article/pii/S1673852723001133). Has more equations and is more detailed on the QTL mapping bit.
+- Aarun Lun's thoughts on single cell analysis on [github](https://ltla.github.io/SingleCellThoughts/)
