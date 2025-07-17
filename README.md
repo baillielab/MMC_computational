@@ -51,10 +51,10 @@ Please feel free to add any and all ideas you would like to implement (or see im
 
 ### General single-cell stuff
 - Fabian Theis's [book](https://www.sc-best-practices.org/preamble.html) on single-cell best practices and the accompanying [paper](https://www.nature.com/articles/s41576-023-00586-w) and [tutorial](https://www.embopress.org/doi/full/10.15252/msb.20188746) and [github](https://github.com/theislab/single-cell-tutorial).
+- Aarun Lun's thoughts on single cell analysis on [github](https://ltla.github.io/SingleCellThoughts/)
 
 ### Single-cell QTL mapping resources
 
 - Cuomo's [review paper: Single-cell genomics meets human genetics](https://www.nature.com/articles/s41576-023-00599-5). Great initial overview of main methods and challenges.
 - Maria's [review paper: The Power of Single-Cell RNA Sequencing in eQTL Discovery](https://www.mdpi.com/2073-4425/13/3/502). Great starting point, v high level. 
 - Zhang and Zhao's [review paper: eQTL studies: from bulk tissues to single cells](https://www.sciencedirect.com/science/article/pii/S1673852723001133). Has more equations and is more detailed on the QTL mapping bit.
-- Aarun Lun's thoughts on single cell analysis on [github](https://ltla.github.io/SingleCellThoughts/)
