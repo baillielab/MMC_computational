@@ -18,12 +18,10 @@ Please see the table below for key decision to be made.
                                               | Discrete or continous cell-state models? |
                                               /                     |                     \
                                     Discrete cell types     Pseudo-continuous           Continuous
-                                          /
-          | How are we annotating cell types? |
-                                      /
-                                    ?
-                                  /
-       | How are we producing a pseudo-bulk measure? |
+                                   /             \     
+    | How are we annotating cell types? |         \   
+                      /                            \
+                                            | How are we producing a pseudo-bulk measure? |
 
 ## Key options
 
