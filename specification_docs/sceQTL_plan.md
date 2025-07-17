@@ -8,12 +8,22 @@ The scientific aim of this project is to identify naturally occuring genetic var
 
 Please see the table below for key decision to be made. 
 
-|Decision number|| Key decision point | Reason this is critical |
-|---|---|---|---|
-|1||Discrete or continuous cell types | Could greatly change our power of detection? Could also change what we detect? @@@ Need to look into this more|
-|2|Discrete|How to annotate cell types | Some methods are better than others? @@@ Need to research more |
-|3|Discrete|How to produce pseudo-bulk measure| some methods are better than others? @@@Need to research more|
-|4|Continuous|How do we model the continuous cell state | @@@ Need to research more|
+| Key decision point | Reason this is critical |
+|---|---|
+|Discrete or continuous cell types | Could greatly change our power of detection? Could also change what we detect? @@@ Need to look into this more|
+|How to annotate cell types | Some methods are better than others? @@@ Need to research more |
+|How to produce pseudo-bulk measure| some methods are better than others? @@@Need to research more|
+|How do we model the continuous cell state | @@@ Need to research more|
+
+                                              | Discrete or continous cell-state models? |
+                                              /                     |                     \
+                                    Discrete cell types     Pseudo-continuous           Continuous
+                                          /
+          | How are we annotating cell types? |
+                                      /
+                                    ?
+                                  /
+       | How are we producing a pseudo-bulk measure? |
 
 ## Decision point options
 
