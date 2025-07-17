@@ -25,15 +25,7 @@ Please see the table below for key decision to be made.
                                   /
        | How are we producing a pseudo-bulk measure? |
 
-## Decision point options
-
-### Decision 1: Discrete or continuous cell type models
-
-#### Option 1: Discrete cell types
-
-#### Option 2: Continuous cell states
-
-
+## Key options
 
 ## Option comparison
 
