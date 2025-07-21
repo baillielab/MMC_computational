@@ -15,7 +15,7 @@ Please see the table below for key decision to be made.
 |3|Discrete|How to produce pseudo-bulk measure| some methods are better than others? @@@Need to research more|
 |4|Continuous|How do we model the continuous cell state | @@@ Need to research more|
 
-## Decision point options
+## Decisions
 
 ### Decision 1: Discrete or continuous cell type models
 
@@ -23,7 +23,11 @@ Please see the table below for key decision to be made.
 
 #### Option 2: Continuous cell states
 
+### Decision 2: How to annotate cell types
 
+- scPred: supervised step with known annotated data types, unsupervised step. 
+- How do Seurat/Scanpy/Bioconductor do it?
+- 
 
 ## Option comparison
 
