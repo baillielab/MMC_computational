@@ -54,6 +54,7 @@ Please feel free to add any and all ideas you would like to implement (or see im
 - The Theis lab's [book](https://www.sc-best-practices.org/preamble.html) on single-cell best practices and the accompanying [paper](https://www.nature.com/articles/s41576-023-00586-w) and [tutorial](https://www.embopress.org/doi/full/10.15252/msb.20188746) and [github](https://github.com/theislab/single-cell-tutorial).
 - Aarun Lun's thoughts on single cell analysis on [github](https://ltla.github.io/SingleCellThoughts/)
 - Sanger's Hemberg group resources: [book](https://www.singlecellcourse.org/)
+- [scanpy tutorials](https://scanpy.readthedocs.io/en/latest/index.html)
 
 ### Single-cell QTL mapping resources
 
