@@ -2,5 +2,8 @@
 name= "scanpy_tut"
 version = "0.1.0"
 dependencies = [
-    "scanpy[leiden]"
+    "scanpy[leiden]",
+    "anndata",
+    "ipykernel",
+    "pooch"
 ]
