@@ -3,9 +3,15 @@
 # The data used in this script is provided by the GASPACHO github repo - https://github.com/natsuhiko/GASPACHO/tree/v1.0.0
 # There are 68 individuals with number of cells ranging from 5 to 674 cells. 
 
-metadata = readRDS("data/metadata.RDS")
-cpm = readRDS("data/log_cpm_4999_22188.RDS") 
+metadata = readRDS("../data/GASPACHO/metadata.RDS")
+cpm = readRDS("../data/GASPACHO/log_cpm_4999_22188.RDS") 
 init_param = readRDS("data/init_param.RDS") # parameters for GASPACHO
+
+# Inspect the files and understand the structure
+
+str(metadata) 
+
+# The metadata is a data.frame
 
 gplvm = GPLVM(cpm, metadata,
 	Xi     = init_param$Xi, # latent variables
