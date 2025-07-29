@@ -61,3 +61,7 @@ Please feel free to add any and all ideas you would like to implement (or see im
 - Cuomo's [review paper: Single-cell genomics meets human genetics](https://www.nature.com/articles/s41576-023-00599-5). Great initial overview of main methods and challenges.
 - Maria's [review paper: The Power of Single-Cell RNA Sequencing in eQTL Discovery](https://www.mdpi.com/2073-4425/13/3/502). Great starting point, v high level. 
 - Zhang and Zhao's [review paper: eQTL studies: from bulk tissues to single cells](https://www.sciencedirect.com/science/article/pii/S1673852723001133). Has more equations and is more detailed on the QTL mapping bit.
+
+## Tutorials
+
+Going through the scanpy and Theis lab tutorials [here](testing_methods/scripts/scanpy_tutorials). 
