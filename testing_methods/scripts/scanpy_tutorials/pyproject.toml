@@ -5,5 +5,6 @@ dependencies = [
     "scanpy[leiden]",
     "anndata",
     "ipykernel",
-    "pooch"
+    "pooch",
+    "scikit-image"
 ]
