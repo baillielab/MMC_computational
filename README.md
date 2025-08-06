@@ -1,6 +1,6 @@
 # Single-cell molecular QTL mapping
 
-Welcome to the downstream analysis arm of the Molecular Mechanisms Cluster (MMC) at the University of Edinburgh. If you have any questions, ideas or would like to collaborate, please reach out to silvia.shen[at]ed.ac.uk.  
+Welcome to the downstream analysis arm of the Molecular Mechanisms Cluster (MMC) at the University of Edinburgh. If you have any questions, ideas or would like to collaborate, please reach out to silvia.shen[at]ed.ac.uk.
 
 **Aims**
 
@@ -16,10 +16,9 @@ In simple terms, our goals are:
 
 For an overview of the whole process, please see the [MMC powerpoint](https://uoe-my.sharepoint.com/:p:/r/personal/kcampb2_ed_ac_uk/Documents/MMC_PPA_notes.pptx?d=w3afaa31d5ccd4efea7dff2bf2b120465&csf=1&web=1&e=jjdB1P). For an overview of what we could do with the very exciting single-cell data, see figure below (the projects I am currently working on are highlighted in red).   
 
-**Key resources**  
+## Initial analysis
 
-- To see how key analysis decisions were made, please refer to the [specification documents](specification_docs).  
-`<link to key resources that we can share>`
+Following processing of raw data, single-cell data will be pre-processed, visualised and cellular structure will be identified. For this pipeline, please see [singlecell_processing](singlecell_processing). 
 
 ## Cell type analysis
 
@@ -65,3 +64,8 @@ Please feel free to add any and all ideas you would like to implement (or see im
 ## Tutorials
 
 Going through the scanpy and Theis lab tutorials [here](testing_methods/scripts/scanpy_tutorials). 
+
+# Acknowledgements
+
+**Kathryn Campbell**: raw data processing <add link to other MMC repos> and general advice/support.  
+**Konrad Rawlik, Dominique McCormick, Kenneth Baillie**: MMC leadership.
