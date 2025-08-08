@@ -67,5 +67,5 @@ Going through the scanpy and Theis lab tutorials [here](testing_methods/scripts/
 
 # Acknowledgements
 
-**Kathryn Campbell**: raw data processing <add link to other MMC repos> and general advice/support.     
-**Konrad Rawlik, Dominique McCormick, Kenneth Baillie**: MMC leadership.
+**Kathryn Campbell, Dominique McCormick**: data engineers and data scientists working on raw data processing <add link to other MMC repos> and work with ODAP (HPC system).
+**Konrad Rawlik, Kenneth Baillie**: MMC leadership.
