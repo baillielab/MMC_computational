@@ -1,10 +1,6 @@
-(This repository is a 1-1 record of what exists on ODAP, apart from the data and this sentence)
+# Goals of the standard single cell pipeline
 
-# Standard single cell pipeline
-
-## Step 1
-
-Convert seurat object to anndata
+Goals and steps are outlined below. For results, please see this website. 
 
 ## Step 2
 
