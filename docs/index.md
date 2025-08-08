@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Visualisation of pre-Pilot data
+# pre-Pilot
 
 Key info:
 - There were 8 samples from 8 donors in total - 2 blood, 2 skin and 2 brain. 
