@@ -1,0 +1,10 @@
+Assuming unrestricted shared filesystem usage.
+None
+host: shs-sdf01.nsh.loc
+Building DAG of jobs...
+MissingInputException in rule bustools_text in file "/mnt/odap-beegfs/a008/template/scripts/02_QC_and_filtering/02.1.1_Snakefile_bustools", line 33:
+Missing input files for rule bustools_text:
+    output: /mnt/odap-beegfs/a008/template/test/MMC/SKN003_LPS_R1_NE/sorted_bus.txt
+    wildcards: input_directory=test, subdirectory=MMC, sample=SKN003_LPS_R1_NE
+    affected files:
+        /mnt/odap-beegfs/a008/template/test/MMC/SKN003_LPS_R1_NE/kallisto.sorted_bus
