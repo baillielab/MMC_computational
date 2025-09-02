@@ -18,7 +18,7 @@ For an overview of the whole process, please see the [MMC powerpoint](https://uo
 
 ## Initial analysis
 
-Following processing of raw data, single-cell data will be pre-processed, visualised and cellular structure will be identified. For this pipeline, please see [singlecell_processing](singlecell_processing). 
+Following processing of raw data, single-cell data will be pre-processed, visualised and cellular structure will be identified. For this pipeline, please see [the single cell pipeline](single-cell-pipeline). 
 
 ## Cell type analysis
 
@@ -67,5 +67,5 @@ Going through the scanpy and Theis lab tutorials [here](testing_methods/scripts/
 
 # Acknowledgements
 
-**Kathryn Campbell**: raw data processing <add link to other MMC repos> and general advice/support.  
-**Konrad Rawlik, Dominique McCormick, Kenneth Baillie**: MMC leadership.
+**Kathryn Campbell, Dominique McCormick**: data engineers and data scientists working on raw data processing <add link to other MMC repos> and work with ODAP (HPC system).
+**Konrad Rawlik, Kenneth Baillie**: MMC leadership.
