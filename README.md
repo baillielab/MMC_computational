@@ -1,4 +1,4 @@
-# Single-cell molecular QTL mapping
+# MMC computational analysis
 
 Welcome to the downstream analysis arm of the Molecular Mechanisms Cluster (MMC) at the University of Edinburgh. If you have any questions, ideas or would like to collaborate, please reach out to silvia.shen[at]ed.ac.uk.
 
