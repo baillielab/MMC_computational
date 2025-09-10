@@ -56,7 +56,7 @@ A) Pseudo-bulk method:
 
 ## Analysis plan and timeline
 
-| Task                        | Week 1 (Jul 14) | Week 2 (Jul 21) | Week 3 (Jul 28) | Week 4 (Aug 4) | Week 5 (Aug 11) |
+| Task                        | Week 1 | Week 2 | Week 3 | Week 4 | Week 5 |
 |-----------------------------|------------------|----------------|-----------------|------------------|------------------|
 | Pipeline design             | █████████████████|████████████████|█████████████████|                  |                  |
 | Pipeline building           |                  |████████████████|█████████████████|██████████████████|                  |
