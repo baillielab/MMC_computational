@@ -62,8 +62,7 @@ Please feel free to add any and all ideas you would like to implement (or see im
 - Zhang and Zhao's [review paper: eQTL studies: from bulk tissues to single cells](https://www.sciencedirect.com/science/article/pii/S1673852723001133). Has more equations and is more detailed on the QTL mapping bit.
 
 ## Tutorials
-
-Going through the scanpy and Theis lab tutorials [here](testing_methods/scripts/scanpy_tutorials). 
+Scanpy and Theis lab tutorials [here](testing_methods/scripts/scanpy_tutorials). 
 
 # Acknowledgements
 
