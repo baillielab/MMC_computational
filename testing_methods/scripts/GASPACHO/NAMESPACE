@@ -1,4 +1,0 @@
-export(GPLVM)
-export(getTa)
-export(getBF)
-export(updateDxCSE)
